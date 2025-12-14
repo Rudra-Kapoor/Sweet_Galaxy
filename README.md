@@ -88,7 +88,6 @@ A full‑stack **cosmic‑themed sweet shop management system** that lets users 
 
 ```bash
 git clone https://github.com/Rudra-Kapoor/Sweet_Galaxy.git
-cd SWEET_SHOP
 ```
 
 ### 2️⃣ Backend Setup
@@ -96,7 +95,6 @@ cd SWEET_SHOP
 ```bash
 cd backend
 npm install
-cp .env.example .env
 ```
 
 Configure your `.env` file:
